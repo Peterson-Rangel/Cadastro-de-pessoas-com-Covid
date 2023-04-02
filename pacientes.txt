@@ -1,0 +1,27 @@
+
+ NOME DO PACIENTE: Peterson Rangel
+
+ CPF: 42171358823
+
+ TELEFONE: 12991246274
+
+ E-MAIL: peterson.rangel97@gmail.com
+
+ CEP: 12070270
+
+ RUA: Jose Alvaro Peixoto
+
+ Nº RESIDÊNCIA: 220
+
+ CIDADE: Taubate
+
+ ESTADO: SP
+
+ DATA DO DIAGNÓSTICO: 02/05/2023
+
+ DATA DE NASCIMENTO: 2/3/1954
+
+ IDADE: 68
+
+ COMORBIDADE: DIABETES
+___________________________________________________________
